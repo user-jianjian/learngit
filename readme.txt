@@ -6,3 +6,5 @@ Creating a new branch is quick.
 Add main's things.
 Add feature1's things
 Add merge with no-off.
+Doing...
+DONE
